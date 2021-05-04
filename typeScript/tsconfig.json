@@ -4,6 +4,7 @@
         "module": "commonjs",
         "watch": true,
         "lib": ["dom", "ES2017"],
-        "types": ["node"]
+        "types": ["node"],
+        "strict": true /* Enable all strict type-checking options. */,
     }
 }
