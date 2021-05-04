@@ -1,5 +1,5 @@
-import { wordList }  from "./word";
-import { displayHangman }  from "./displayHangman";
+import { wordList }  from "./../word";
+import { displayHangman }  from "./../displayHangman";
 
 const getWord = (wordList: string[]):string => {
     return wordList[Math.floor(Math.random() * wordList.length)]

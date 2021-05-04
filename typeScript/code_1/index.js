@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var word_1 = require("./word");
-var displayHangman_1 = require("./displayHangman");
+var word_1 = require("./../word");
+var displayHangman_1 = require("./../displayHangman");
 var getWord = function (wordList) {
     return wordList[Math.floor(Math.random() * wordList.length)];
 };
