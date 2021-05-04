@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "watch": true,
+        "lib": ["dom", "ES2017"],
+        "types": ["node"]
+    }
+}
