@@ -9,3 +9,5 @@ I am writing and hangman in different languages.
    - Download the 'Typescript' directory
    - move into either code_1 or code_2 directory
    - run `node index.js`
+
+2. Java
